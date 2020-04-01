@@ -1,0 +1,21 @@
+{
+  "name": "masky",
+  "version": "0.1.0",
+  "description": "mask sensitive json",
+  "main": "index.js",
+  "keywords": [
+    "obfuscate",
+    "mask",
+    "secret",
+    "hidden",
+    "shy",
+    "json",
+    "recursive",
+    "logs",
+    "security",
+    "privacy",
+    "private"
+  ],
+  "author": "",
+  "license": "ISC"
+}
